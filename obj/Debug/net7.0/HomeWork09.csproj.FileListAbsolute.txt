@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\cSharp\HomeWork09\bin\Debug\net7.0\HomeWork09.exe
+C:\Users\Андрей\Desktop\cSharp\HomeWork09\bin\Debug\net7.0\HomeWork09.deps.json
+C:\Users\Андрей\Desktop\cSharp\HomeWork09\bin\Debug\net7.0\HomeWork09.runtimeconfig.json
+C:\Users\Андрей\Desktop\cSharp\HomeWork09\bin\Debug\net7.0\HomeWork09.dll
+C:\Users\Андрей\Desktop\cSharp\HomeWork09\bin\Debug\net7.0\HomeWork09.pdb
+C:\Users\Андрей\Desktop\cSharp\HomeWork09\obj\Debug\net7.0\HomeWork09.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\cSharp\HomeWork09\obj\Debug\net7.0\HomeWork09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\cSharp\HomeWork09\obj\Debug\net7.0\HomeWork09.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\cSharp\HomeWork09\obj\Debug\net7.0\HomeWork09.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\cSharp\HomeWork09\obj\Debug\net7.0\HomeWork09.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\cSharp\HomeWork09\obj\Debug\net7.0\HomeWork09.dll
+C:\Users\Андрей\Desktop\cSharp\HomeWork09\obj\Debug\net7.0\refint\HomeWork09.dll
+C:\Users\Андрей\Desktop\cSharp\HomeWork09\obj\Debug\net7.0\HomeWork09.pdb
+C:\Users\Андрей\Desktop\cSharp\HomeWork09\obj\Debug\net7.0\HomeWork09.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\cSharp\HomeWork09\obj\Debug\net7.0\ref\HomeWork09.dll
